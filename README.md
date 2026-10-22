@@ -1,8 +1,22 @@
+<div align="center">
+
 # Один росчерк
 
-Головоломка для браузера и мобильных: обведи фигуру одной линией, не отрывая пальца и не проходя по ребру дважды.
+**Головоломка: обведи фигуру одной линией. Уровни строятся генератором эйлеровых путей.**
 
-![Превью уровней](levels-preview.png)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas 2D">
+
+</div>
+
+<table>
+<tr>
+<td align="center" valign="top"><img src="docs/level.jpg" alt="Уровень" width="260"></td>
+<td align="center" valign="top"><img src="levels-preview.png" alt="Превью сгенерированных уровней" width="420"></td>
+</tr>
+</table>
+
+<!-- header:end -->
+Головоломка для браузера и мобильных: обведи фигуру одной линией, не отрывая пальца и не проходя по ребру дважды.
 
 ## Как это устроено
 
