@@ -6,6 +6,8 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas 2D">
 
+<a href="https://limmmp.github.io/one-stroke/"><img src="https://img.shields.io/badge/▶_Играть-000000?style=for-the-badge" alt="Демо"></a>
+
 </div>
 
 <table>
